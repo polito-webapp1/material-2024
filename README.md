@@ -5,12 +5,12 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 ## Slides
 
 - [Introduction to the course (prof. Corno, Web Applications I)](./slide/00-intro-2024-WA1.pdf)
-- Introduction to the course (prof. De Russis, Applicazioni Web I)
+- [Introduction to the course (prof. De Russis, Applicazioni Web I)](./slide/00-intro-2024-AW1.pdf)
 
 ### Javascript
 
-- JavaScript Basics
-- JavaScript Objects and Functions
+- [JavaScript Basics](./slide/1-01-javascript-basics.pdf)
+- [JavaScript Objects and Functions](./slide/1-02-javascript-objects-functions.pdf)
 - Asynchronous Programming in JavaScript
 
 
@@ -27,9 +27,5 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ## Laboratories
-
-- Lab 1: Getting Started with Node.js
-- Lab 2
-- Lab 3
-- Lab 4
+The text and (a possible) solution of each laboratory are available in the [`lab-2024` repository](https://github.com/polito-webapp1/lab-2024).
 
