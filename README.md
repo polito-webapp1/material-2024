@@ -20,6 +20,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ### Browsers and client-side applications
+- See **Reading 1**
+- [JavaScript in the browser](./slide/3-01-JS-browser.pdf)
 
 
 ### React
